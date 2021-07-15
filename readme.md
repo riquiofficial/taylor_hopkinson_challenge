@@ -39,4 +39,4 @@ In a new terminal:
 
 `npm start`
 
-When your browser opens, you should see a the solution to the challenge!
+When your browser opens, you should see a solution to the challenge!
