@@ -17,9 +17,10 @@ The entire back end was built with Python, Django and Django Rest Framework. The
 - Django Rest Framework v3.12.2
 - django-cors-headers
 
+If any of these are missing you can use `pip3 install packagenamehere`
+
 ### Front End
 
-- React v17.0.2
 - Node v10.22.0
 
 ## Usage
