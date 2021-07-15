@@ -23,7 +23,7 @@ The entire back end was built with Python, Django and Django Rest Framework. The
 
 ## Usage
 
-clone this repo and ensure you have the Back End dependancies installed below.
+clone this repo and ensure you have the Back End and Front End dependancies installed above.
 
 `git clone https://github.com/riquiofficial/taylor_hopkinson_challenge.git
 
