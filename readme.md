@@ -15,6 +15,7 @@ The entire back end was built with Python, Django and Django Rest Framework. The
 - Python v3.8.3
 - Django v2.2.5
 - Django Rest Framework v3.12.2
+- Django Cors Headers
 
 ### Front End
 
