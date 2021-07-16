@@ -6,7 +6,7 @@ To create a simple React and Django app which follows the instructions given fro
 
 ## Technologies
 
-The entire back end was built with Python, Django and Django Rest Framework. The front was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the latest version of NodeJS.
+The entire back end was built with Python, Django and Django Rest Framework. The front was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using NodeJS.
 
 ## Dependencies
 
