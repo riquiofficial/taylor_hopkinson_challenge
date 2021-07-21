@@ -33,22 +33,18 @@ const Job = () => {
   return (
     <div className="data">
       <h2>Job Details</h2>
-      {data ? (
+      {data && (
         <div>
           <p>{data.id}</p>
           <p>{data.name}</p>
           <p>{data.role}</p>
         </div>
-      ) : (
-        ""
       )}
-      {application ? (
+      {application && (
         <div>
           <h2>Success! You applied to job number {application.job_id} as:</h2>
           <p>{application.candidate_email}</p>
         </div>
-      ) : (
-        ""
       )}
       <button onClick={postData}>Apply</button>
     </div>
